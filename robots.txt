@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joteiza003.github.io/portfolio-arquitectura/sitemap.xml
